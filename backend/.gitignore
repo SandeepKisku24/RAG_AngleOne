@@ -1,0 +1,32 @@
+.env
+# Python cache and virtualenv
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Mac system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Env files
+.env
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Jupyter Notebook checkpoints (if you use any)
+.ipynb_checkpoints/
+
+# Ignore PDFs and text data (if they’re large or private)
+# data/pdfs/
+# data/web_content/
