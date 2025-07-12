@@ -17,5 +17,5 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Optional: Data files if not needed
-data/pdfs/
-data/web_content/
+# data/pdfs/
+# data/web_content/
