@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Virtual environment
 venv/
 env/
@@ -27,27 +28,26 @@ __pycache__/
 *.pyd
 *.pyc
 
+=======
+>>>>>>> bac5bd57 (untrack venv)
 # Virtual environment
 venv/
 env/
 ENV/
 
-# Mac system files
-.DS_Store
+# Python cache
+__pycache__/
+*.py[cod]
 
-# VS Code settings
-.vscode/
-
-# Env files
+# Environment variables
 .env
 
-# Logs and temp files
-*.log
-*.tmp
+# System files
+.DS_Store
 
-# Jupyter Notebook checkpoints (if you use any)
+# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Ignore PDFs and text data (if they’re large or private)
-# data/pdfs/
-# data/web_content/
+# Optional: Data files if not needed
+data/pdfs/
+data/web_content/
